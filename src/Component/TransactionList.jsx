@@ -18,4 +18,4 @@ function TransactionList() {
     );
   }
   
-export default TransactionList
+export default TransactionList;
