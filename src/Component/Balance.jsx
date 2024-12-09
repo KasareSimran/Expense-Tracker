@@ -34,4 +34,4 @@ const Balance = () => {
   )
 }
 
-export default Balance
+export default Balance;
