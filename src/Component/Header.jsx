@@ -4,8 +4,8 @@ import React from "react";
 
 
 function Header(){
-    return(<>
+    return(
     <h2>Expense Tracker</h2>
-    </>)
+    )
 }
 export default Header;
