@@ -4,6 +4,8 @@ import './App.css'
 import Header from './Component/Header.jsx'
 import Balance from './Component/Balance.jsx'
 import IncomeExpense from './Component/IncomeExpense.jsx'
+import Transaction from './Component/TransactionList.jsx'
+import AddTransaction from './Component/AddTransaction.jsx'
 
 function App() {
   
@@ -13,6 +15,8 @@ function App() {
     <div className="container">
       <Balance/>
       <IncomeExpense/>
+      <Transaction/>
+      <AddTransaction/>
     </div>
     </>
   )
